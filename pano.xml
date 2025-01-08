@@ -8790,7 +8790,7 @@
       <hotspot title="" skinid="ht_node" tilt="-35.07" id="Point05" url="{node283}" pan="-113.12" description="" target=""/>
       <hotspot title="" skinid="ht_node" tilt="-7.92" id="Point06" url="{node284}" pan="-111.21" description="" target="115.6/-3.8/70.0"/>
       <hotspot title="" skinid="ht_node" tilt="-0.86" id="Point07" url="{node274}" pan="-345.74" description="" target=""/>
-      <hotspot title="" skinid="ht_node" tilt="-16.02" id="Point08" url="{node273}" pan="-322.79" description="" target=""/>
+      <hotspot title="" skinid="ht_node" tilt="-16.02" id="Point08" url="{node273}" pan="-322.79" description="" target="59.8/-1.8/70.0"/>
     </hotspots>
     <media/>
     <transition zoomspeed="2" zoomout="0" enabled="1" type="crossdissolve" blendtime="1" zoomfov="20" zoomoutpause="1" zoomafteroutfov="20" softedge="0" zoomin="0" blendcolor="0x000000" zoomafterinfov="90"/>
